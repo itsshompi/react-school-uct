@@ -1,0 +1,52 @@
+.shiny{
+  
+}
+.author{
+  font-size: 11px;
+}
+
+.app-data{
+  margin-top: 50px;
+}
+
+.home {
+  margin-top: 125px;
+}
+
+.home-t1{
+  font-size: 26px;
+}
+.home-t4{
+  font-size: 14px;
+}
+
+.summary{
+  width: 800px;
+  margin: 125px auto 0;
+}
+.summary-t1{
+  font-size: 44px;
+}
+.summary-p{
+  font-family: 'Domine', serif;
+  font-size: 20px;
+  text-align: justify;
+  margin: 15px auto;
+}
+.summary-n{
+  padding-left: 15px;
+}
+.sumarry-image{
+  width: 800px;
+  margin: 15px auto;
+}
+.summary-last{
+  margin-bottom: 100px;
+}
+.image-bg-fluid-height {
+    background: url(./bg.jpg) no-repeat center center scroll;
+    padding: 100px 0;
+}
+.img-center {
+    margin: 0 auto;
+}
